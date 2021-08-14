@@ -639,7 +639,7 @@
 .fsns li:last-child{margin-right:0;}
 
 /*푸터인포영역*/
-.footerInfo{background:#fafafa; padding:60px 0 130px;}
+.footerInfo{background:#fafafa; padding:60px 0;}
 .footerInfo p::after{display: block; content:""; clear: both;}
 .footerInfo p span{display: block; float:left; color:#333; margin:0 10px 11px 0;}
 .footerInfo p:nth-child(3) span:last-child{padding-right:15px; padding-bottom:2px; 
